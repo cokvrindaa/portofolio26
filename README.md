@@ -71,8 +71,8 @@ cokvrinda26/
 
 **1. Clone repositori ini**
 ```bash
-git clone https://github.com/cokvrindaa/cokvrinda26.git
-cd cokvrinda26
+git clone https://github.com/cokvrindaa/portofolio.git
+cd portofolio26
 ```
 
 **2. Install semua dependensi**
