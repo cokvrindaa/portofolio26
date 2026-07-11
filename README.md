@@ -2,7 +2,7 @@
 
 Website portofolio pribadi yang dibangun menggunakan **React + Vite + Tailwind CSS**, dilengkapi dengan animasi interaktif berbasis **Three.js** dan **Framer Motion**. Bisa diakses secara live di GitHub Pages.
 
-🔗 **Live Demo:** [cokvrindaa.github.io/cokvrinda26](https://cokvrindaa.github.io/cokvrinda26)
+🔗 **Live Demo:** [cokvrindaa.github.io/portofolio26](https://cokvrindaa.github.io/portofolio26)
 
 ---
 
