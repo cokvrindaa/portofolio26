@@ -71,7 +71,7 @@ cokvrinda26/
 
 **1. Clone repositori ini**
 ```bash
-git clone https://github.com/cokvrindaa/portofolio.git
+git clone https://github.com/cokvrindaa/portofolio26.git
 cd portofolio26
 ```
 
