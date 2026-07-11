@@ -1,4 +1,4 @@
-import GradientText from "../Element/GradientText.Jsx";
+import GradientText from "../Element/GradientText.jsx";
 import BlurText from "../Element/BlurText";
 import AnimatedContent from "../Element/AnimatedContent.jsx";
 import GlareHover from "../Element/GlareHover.jsx";
@@ -30,10 +30,6 @@ const MainAboutFragment = () => {
             enableTilt={true}
             enableMobileTilt={false}
             onContactClick={() => console.log("Contact clicked")}
-            behindGlowColor="rgba(125, 190, 255, 0.67)"
-
-            behindGlowEnabled
-            innerGradient="linear-gradient(145deg,#60496e8c 0%,#71C4FF44 100%)"
           />
         </AnimatedContent>
       </div>
